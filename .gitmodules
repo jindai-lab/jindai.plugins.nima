@@ -1,0 +1,3 @@
+[submodule "nima"]
+	path = nima
+	url = https://github.com/VoVAllen/nima
