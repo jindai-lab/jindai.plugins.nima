@@ -1,3 +1,2 @@
-[submodule "nima"]
-	path = nima
+[submodule ".\\plugins\\nima\\nima\\"]
 	url = https://github.com/VoVAllen/nima
